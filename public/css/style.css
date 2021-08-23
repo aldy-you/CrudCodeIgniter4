@@ -1,0 +1,12 @@
+.picture-size {
+  width: 150px;
+  height: auto;
+}
+.cover {
+  width: 345px;
+  height: auto;
+  margin: -1.2em 1.5em 2em -1.2em;
+}
+.btn-back {
+  margin: 4em 0em 0em 0em;
+}
